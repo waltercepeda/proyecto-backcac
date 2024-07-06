@@ -1,0 +1,6 @@
+la idea era hacer algo corto con un front sencillo y rapido para 
+aplicar lo que nos pide el trabajo practico.
+bootstrap
+python-flask
+docker con imagen de alguna base de datos
+
